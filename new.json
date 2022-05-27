@@ -3,6 +3,12 @@
 "lastName":"Обидин",
 "age":36,
 "countPets":1,
-"children":2,
 "futureSalaryInDollars":10000
+}
+{
+"faivoriteMovie":"Rocky",
+"faivoriteTvShow":"Matchmakers",
+"favoriteFood":"barbecue",
+"favoriteSeason":"summer",
+"countryToVisit":"Italy"
 }
